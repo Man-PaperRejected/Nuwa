@@ -1,0 +1,9 @@
+{
+    "avg_prefill_time_ms": 46.01598819717765,
+    "std_prefill_time_ms": 3.0000873659832314,
+    "min_prefill_time_ms": 43.47103275358677,
+    "max_prefill_time_ms": 53.338308818638325,
+    "avg_token_length": 105.6,
+    "throughput_tokens_per_second": 2294.8545524548113,
+    "num_samples": 10
+}

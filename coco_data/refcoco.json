@@ -1,0 +1,212 @@
+[
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 480,
+        "width": 640,
+        "normal_caption": "person bottom left",
+        "image": "train2014/COCO_train2014_000000581282.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: person bottom left.",
+        "solution": [
+            3.24,
+            159.31,
+            159.64,
+            472.12
+        ],
+        "normalized_solution": [
+            5,
+            331,
+            249,
+            983
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 480,
+        "width": 640,
+        "normal_caption": "left black shirt",
+        "image": "train2014/COCO_train2014_000000581282.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: left black shirt.",
+        "solution": [
+            3.24,
+            159.31,
+            159.64,
+            472.12
+        ],
+        "normalized_solution": [
+            5,
+            331,
+            249,
+            983
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "man on right",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: man on right.",
+        "solution": [
+            385.79,
+            208.07,
+            509.76,
+            413.24
+        ],
+        "normalized_solution": [
+            602,
+            489,
+            796,
+            972
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "right man",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: right man.",
+        "solution": [
+            385.79,
+            208.07,
+            509.76,
+            413.24
+        ],
+        "normalized_solution": [
+            602,
+            489,
+            796,
+            972
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "man sitting on bench",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: man sitting on bench.",
+        "solution": [
+            385.79,
+            208.07,
+            509.76,
+            413.24
+        ],
+        "normalized_solution": [
+            602,
+            489,
+            796,
+            972
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "person on left of bench",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: person on left of bench.",
+        "solution": [
+            125.75,
+            207.3,
+            265.07,
+            399.71
+        ],
+        "normalized_solution": [
+            196,
+            487,
+            414,
+            940
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "person on left yellow boots",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: person on left yellow boots.",
+        "solution": [
+            125.75,
+            207.3,
+            265.07,
+            399.71
+        ],
+        "normalized_solution": [
+            196,
+            487,
+            414,
+            940
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "person left",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: person left.",
+        "solution": [
+            125.75,
+            207.3,
+            265.07,
+            399.71
+        ],
+        "normalized_solution": [
+            196,
+            487,
+            414,
+            940
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "blue car right",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: blue car right.",
+        "solution": [
+            315.17,
+            166.18,
+            640.0,
+            392.53
+        ],
+        "normalized_solution": [
+            492,
+            391,
+            1000,
+            923
+        ]
+    },
+    {
+        "dataset": "refcoco_testA",
+        "text_type": "caption",
+        "height": 425,
+        "width": 640,
+        "normal_caption": "blue car",
+        "image": "train2014/COCO_train2014_000000580668.jpg",
+        "problem": "Please provide the bounding box coordinate of the region this sentence describes: blue car.",
+        "solution": [
+            315.17,
+            166.18,
+            640.0,
+            392.53
+        ],
+        "normalized_solution": [
+            492,
+            391,
+            1000,
+            923
+        ]
+    }
+]
