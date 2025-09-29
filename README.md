@@ -1,7 +1,7 @@
 
 # Nüwa: Mending the Spatial Integrity Torn by VLM Token Pruning
 <p align="center" width="100%">
-<img src="./imgs/main.png" alt="Stanford-Alpaca" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<img src="https://github.com/Man-PaperRejected/Nuwa/blob/master/imgs/main.png" alt="Stanford-Alpaca" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 
@@ -24,7 +24,7 @@
 
 ## Highlights
 <p align="center" width="90%">
-<img src="./imgs/first_r.png" alt="Stanford-Alpaca" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+<img src="https://github.com/Man-PaperRejected/Nuwa/blob/master/imgs/first_r.png" alt="Stanford-Alpaca" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 1. Nüwa achieves SOTA performance on multiple VQA benchmarks (from 94\% to 95\%) and yields substantial improvements on visual grounding tasks (from 7\% to 47\%). 
@@ -35,7 +35,7 @@
 
 1. Install the [LLaVA](https://github.com/haotian-liu/LLaVA) and [transformers 4.54.0.dev0](https://github.com/huggingface/transformers.git) environment.
 
-2. Download the repository and running the following command:
+2. Download the repository and run the following command:
 ```
 cd nuwa
 pip install -e .
